@@ -35,11 +35,11 @@ Password: 123abc123
 ## Screenshots
 
 Login Page
-
+![image URL](https://github.com/faisalibrahim18/movie-app/blob/main/Login.png?raw=true)
 
 
 Movie List Page
-
+![image URL](https://github.com/faisalibrahim18/movie-app/blob/main/list%20movie.png?raw=true)
 
 
 Movie Detail Page
@@ -47,3 +47,4 @@ Movie Detail Page
 
 
 Favorite Page
+![image URL](https://github.com/faisalibrahim18/movie-app/blob/main/favorite.png?raw=true)
