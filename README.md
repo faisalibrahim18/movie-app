@@ -43,7 +43,7 @@ Movie List Page
 
 
 Movie Detail Page
-
+![image URL](https://github.com/faisalibrahim18/movie-app/blob/main/image.png?raw=true)
 
 
 Favorite Page
